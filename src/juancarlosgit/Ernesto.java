@@ -10,6 +10,6 @@ package juancarlosgit;
  * @author Hp
  */
 public class Ernesto { 
-    
+// Hola que tal
     
 }
